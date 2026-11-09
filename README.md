@@ -1,6 +1,15 @@
-Sistema de Registro de Estudiantes
+# Sistema de Registro de Estudiantes
+
 Proyecto desarrollado para practicar el uso de Git y GitHub.
-Autor
+
+## Autor
 Katya Loera
-Descripción
+
+## Descripción
 Sistema básico para registrar estudiantes.
+
+## Funcionalidades
+
+- Registro de estudiantes.
+- Consulta de estudiantes.
+- Control de versiones con Git.
