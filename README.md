@@ -13,3 +13,7 @@ Sistema básico para registrar estudiantes.
 - Registro de estudiantes.
 - Consulta de estudiantes.
 - Control de versiones con Git.
+
+- ## colaboradores
+- katya loera
+- nancy loera
